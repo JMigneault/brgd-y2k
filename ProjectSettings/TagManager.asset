@@ -1,0 +1,60 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Bumper
+  - Pinball
+  - Glitch
+  - TeleportingGlitch
+  - Ad
+  - trail
+  - TitleMusic
+  - Button
+  - Difficulty
+  - Cursor
+  - Launcher
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Flippers
+  - Walls
+  - Background
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Background
+    uniqueID: 3082582629
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Foreground
+    uniqueID: 3493958793
+    locked: 0

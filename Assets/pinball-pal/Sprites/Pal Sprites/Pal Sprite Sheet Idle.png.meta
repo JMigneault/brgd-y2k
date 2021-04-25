@@ -1,0 +1,6252 @@
+fileFormatVersion: 2
+guid: 02f7dc68aa4eb7540a969f51f193d858
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5639618106635310488
+    second: Pal Sprite Sheet Idle_0
+  - first:
+      213: -5728373584380038585
+    second: Pal Sprite Sheet Idle_1
+  - first:
+      213: 1370573999828937453
+    second: Pal Sprite Sheet Idle_2
+  - first:
+      213: -5644175373318688984
+    second: Pal Sprite Sheet Idle_3
+  - first:
+      213: 4214425078195192616
+    second: Pal Sprite Sheet Idle_4
+  - first:
+      213: 2864153631024621400
+    second: Pal Sprite Sheet Idle_5
+  - first:
+      213: -4207373783734501821
+    second: Pal Sprite Sheet Idle_6
+  - first:
+      213: 2477221096517655508
+    second: Pal Sprite Sheet Idle_7
+  - first:
+      213: 7219318632326985471
+    second: Pal Sprite Sheet Idle_8
+  - first:
+      213: 7800654706861661347
+    second: Pal Sprite Sheet Idle_9
+  - first:
+      213: 5869477908035748931
+    second: Pal Sprite Sheet Idle_10
+  - first:
+      213: -4457532747608730834
+    second: Pal Sprite Sheet Idle_11
+  - first:
+      213: -2331618144889250602
+    second: Pal Sprite Sheet Idle_12
+  - first:
+      213: 7675985699273097994
+    second: Pal Sprite Sheet Idle_13
+  - first:
+      213: -7471455617273163856
+    second: Pal Sprite Sheet Idle_14
+  - first:
+      213: 8239114787760174151
+    second: Pal Sprite Sheet Idle_15
+  - first:
+      213: -3407505791719925069
+    second: Pal Sprite Sheet Idle_16
+  - first:
+      213: -7538689504810873793
+    second: Pal Sprite Sheet Idle_17
+  - first:
+      213: 2288638386305437181
+    second: Pal Sprite Sheet Idle_18
+  - first:
+      213: 1441120143356036298
+    second: Pal Sprite Sheet Idle_19
+  - first:
+      213: 278885678598885203
+    second: Pal Sprite Sheet Idle_20
+  - first:
+      213: -9152325081002719329
+    second: Pal Sprite Sheet Idle_21
+  - first:
+      213: 3954811910251193751
+    second: Pal Sprite Sheet Idle_22
+  - first:
+      213: 6931685231289334412
+    second: Pal Sprite Sheet Idle_23
+  - first:
+      213: -8888416747144011037
+    second: Pal Sprite Sheet Idle_24
+  - first:
+      213: -4381807086748730930
+    second: Pal Sprite Sheet Idle_25
+  - first:
+      213: 8055764701603330568
+    second: Pal Sprite Sheet Idle_26
+  - first:
+      213: 942242217390740284
+    second: Pal Sprite Sheet Idle_27
+  - first:
+      213: -8361291191662153928
+    second: Pal Sprite Sheet Idle_28
+  - first:
+      213: -5431531594666189622
+    second: Pal Sprite Sheet Idle_29
+  - first:
+      213: 7768014536667513397
+    second: Pal Sprite Sheet Idle_30
+  - first:
+      213: 43748905490895872
+    second: Pal Sprite Sheet Idle_31
+  - first:
+      213: 66888185491180460
+    second: Pal Sprite Sheet Idle_32
+  - first:
+      213: 6874197889160480536
+    second: Pal Sprite Sheet Idle_33
+  - first:
+      213: 7395038518211854370
+    second: Pal Sprite Sheet Idle_34
+  - first:
+      213: -7568413005660524514
+    second: Pal Sprite Sheet Idle_35
+  - first:
+      213: -7240564174123084955
+    second: Pal Sprite Sheet Idle_36
+  - first:
+      213: -3848289200077398094
+    second: Pal Sprite Sheet Idle_37
+  - first:
+      213: 3415402853142734715
+    second: Pal Sprite Sheet Idle_38
+  - first:
+      213: -722351930974285428
+    second: Pal Sprite Sheet Idle_39
+  - first:
+      213: 5078331840424106745
+    second: Pal Sprite Sheet Idle_40
+  - first:
+      213: -4832746037345960382
+    second: Pal Sprite Sheet Idle_41
+  - first:
+      213: -4044244010922245783
+    second: Pal Sprite Sheet Idle_42
+  - first:
+      213: 4740444031585402552
+    second: Pal Sprite Sheet Idle_43
+  - first:
+      213: -1465243917682392971
+    second: Pal Sprite Sheet Idle_44
+  - first:
+      213: 5482913918363259952
+    second: Pal Sprite Sheet Idle_45
+  - first:
+      213: 7953359907524299882
+    second: Pal Sprite Sheet Idle_46
+  - first:
+      213: 506096567328442766
+    second: Pal Sprite Sheet Idle_47
+  - first:
+      213: -3940592145097004901
+    second: Pal Sprite Sheet Idle_48
+  - first:
+      213: 413286933419892691
+    second: Pal Sprite Sheet Idle_49
+  - first:
+      213: -4468819008034231782
+    second: Pal Sprite Sheet Idle_50
+  - first:
+      213: 6180613879551295550
+    second: Pal Sprite Sheet Idle_51
+  - first:
+      213: -6702415345790662854
+    second: Pal Sprite Sheet Idle_52
+  - first:
+      213: 4237261257514618495
+    second: Pal Sprite Sheet Idle_53
+  - first:
+      213: 8670568393231870241
+    second: Pal Sprite Sheet Idle_54
+  - first:
+      213: 4274825531493593490
+    second: Pal Sprite Sheet Idle_55
+  - first:
+      213: -4927050089190969432
+    second: Pal Sprite Sheet Idle_56
+  - first:
+      213: 6130661428269979022
+    second: Pal Sprite Sheet Idle_57
+  - first:
+      213: -2514866973843532945
+    second: Pal Sprite Sheet Idle_58
+  - first:
+      213: -474674094060423666
+    second: Pal Sprite Sheet Idle_59
+  - first:
+      213: 2412796643611639587
+    second: Pal Sprite Sheet Idle_60
+  - first:
+      213: -3023547257599491862
+    second: Pal Sprite Sheet Idle_61
+  - first:
+      213: -9684583046398593
+    second: Pal Sprite Sheet Idle_62
+  - first:
+      213: -3343578716002247325
+    second: Pal Sprite Sheet Idle_63
+  - first:
+      213: 6525243327225670167
+    second: Pal Sprite Sheet Idle_64
+  - first:
+      213: 6028206854917394943
+    second: Pal Sprite Sheet Idle_65
+  - first:
+      213: -881511691002955197
+    second: Pal Sprite Sheet Idle_66
+  - first:
+      213: 3500697585871882056
+    second: Pal Sprite Sheet Idle_67
+  - first:
+      213: 535996617254109248
+    second: Pal Sprite Sheet Idle_68
+  - first:
+      213: 7088457398739368720
+    second: Pal Sprite Sheet Idle_69
+  - first:
+      213: 5299496377139610455
+    second: Pal Sprite Sheet Idle_70
+  - first:
+      213: 674644409555129344
+    second: Pal Sprite Sheet Idle_71
+  - first:
+      213: -7454523678874352587
+    second: Pal Sprite Sheet Idle_72
+  - first:
+      213: -8782361115458517599
+    second: Pal Sprite Sheet Idle_73
+  - first:
+      213: 1422879755353877180
+    second: Pal Sprite Sheet Idle_74
+  - first:
+      213: 8529485831477843796
+    second: Pal Sprite Sheet Idle_75
+  - first:
+      213: 6803473252370314594
+    second: Pal Sprite Sheet Idle_76
+  - first:
+      213: -4964422188781215788
+    second: Pal Sprite Sheet Idle_77
+  - first:
+      213: -1638315033851093965
+    second: Pal Sprite Sheet Idle_78
+  - first:
+      213: 9203322324152633247
+    second: Pal Sprite Sheet Idle_79
+  - first:
+      213: 6695530238497938951
+    second: Pal Sprite Sheet Idle_80
+  - first:
+      213: -9156844925660529599
+    second: Pal Sprite Sheet Idle_81
+  - first:
+      213: -506579922789150866
+    second: Pal Sprite Sheet Idle_82
+  - first:
+      213: -6499493211704612995
+    second: Pal Sprite Sheet Idle_83
+  - first:
+      213: 9177913448310679891
+    second: Pal Sprite Sheet Idle_84
+  - first:
+      213: -4970675249034319448
+    second: Pal Sprite Sheet Idle_85
+  - first:
+      213: 2595339743687408474
+    second: Pal Sprite Sheet Idle_86
+  - first:
+      213: 2129466501557923766
+    second: Pal Sprite Sheet Idle_87
+  - first:
+      213: -7157425298646374056
+    second: Pal Sprite Sheet Idle_88
+  - first:
+      213: -5027761266843010841
+    second: Pal Sprite Sheet Idle_89
+  - first:
+      213: -4234386456472194904
+    second: Pal Sprite Sheet Idle_90
+  - first:
+      213: -7730923489375090961
+    second: Pal Sprite Sheet Idle_91
+  - first:
+      213: 2806918113254325241
+    second: Pal Sprite Sheet Idle_92
+  - first:
+      213: -347409559956935954
+    second: Pal Sprite Sheet Idle_93
+  - first:
+      213: -7253867233199863470
+    second: Pal Sprite Sheet Idle_94
+  - first:
+      213: -7031648143007603064
+    second: Pal Sprite Sheet Idle_95
+  - first:
+      213: -2063237394309795207
+    second: Pal Sprite Sheet Idle_96
+  - first:
+      213: 4931636231740976384
+    second: Pal Sprite Sheet Idle_97
+  - first:
+      213: 1871407463732724166
+    second: Pal Sprite Sheet Idle_98
+  - first:
+      213: 4330977594595322492
+    second: Pal Sprite Sheet Idle_99
+  - first:
+      213: 7519462474528771674
+    second: Pal Sprite Sheet Idle_100
+  - first:
+      213: -8871069720930580466
+    second: Pal Sprite Sheet Idle_101
+  - first:
+      213: -4414545092286899666
+    second: Pal Sprite Sheet Idle_102
+  - first:
+      213: 5444992812673993946
+    second: Pal Sprite Sheet Idle_103
+  - first:
+      213: -7354894827969463475
+    second: Pal Sprite Sheet Idle_104
+  - first:
+      213: -774622462579085975
+    second: Pal Sprite Sheet Idle_105
+  - first:
+      213: -5248211018827509074
+    second: Pal Sprite Sheet Idle_106
+  - first:
+      213: 4713790213031236740
+    second: Pal Sprite Sheet Idle_107
+  - first:
+      213: 2027824418455284032
+    second: Pal Sprite Sheet Idle_108
+  - first:
+      213: 3692372392993986823
+    second: Pal Sprite Sheet Idle_109
+  - first:
+      213: -1558896116208014071
+    second: Pal Sprite Sheet Idle_110
+  - first:
+      213: -2921504210380633453
+    second: Pal Sprite Sheet Idle_111
+  - first:
+      213: -5966332036138355568
+    second: Pal Sprite Sheet Idle_112
+  - first:
+      213: -3468160320173028114
+    second: Pal Sprite Sheet Idle_113
+  - first:
+      213: -4184648353736197254
+    second: Pal Sprite Sheet Idle_114
+  - first:
+      213: 4087465031923020586
+    second: Pal Sprite Sheet Idle_115
+  - first:
+      213: -1133828171332603351
+    second: Pal Sprite Sheet Idle_116
+  - first:
+      213: 7910710776976811495
+    second: Pal Sprite Sheet Idle_117
+  - first:
+      213: -3434823034468798462
+    second: Pal Sprite Sheet Idle_118
+  - first:
+      213: 7369889990082113353
+    second: Pal Sprite Sheet Idle_119
+  - first:
+      213: 5566388565753105068
+    second: Pal Sprite Sheet Idle_120
+  - first:
+      213: 4698597934963014637
+    second: Pal Sprite Sheet Idle_121
+  - first:
+      213: 4878791817538780475
+    second: Pal Sprite Sheet Idle_122
+  - first:
+      213: -1640469921489442188
+    second: Pal Sprite Sheet Idle_123
+  - first:
+      213: -1250602483432967153
+    second: Pal Sprite Sheet Idle_124
+  - first:
+      213: 63246917375906086
+    second: Pal Sprite Sheet Idle_125
+  - first:
+      213: -1210434740580018659
+    second: Pal Sprite Sheet Idle_126
+  - first:
+      213: 1358387745853032764
+    second: Pal Sprite Sheet Idle_127
+  - first:
+      213: 6335960255575848705
+    second: Pal Sprite Sheet Idle_128
+  - first:
+      213: 1451504638644146471
+    second: Pal Sprite Sheet Idle_129
+  - first:
+      213: 1264566566414880949
+    second: Pal Sprite Sheet Idle_130
+  - first:
+      213: -8332310719521021142
+    second: Pal Sprite Sheet Idle_131
+  - first:
+      213: -8461202422822536184
+    second: Pal Sprite Sheet Idle_132
+  - first:
+      213: 4821666430210644357
+    second: Pal Sprite Sheet Idle_133
+  - first:
+      213: -499855057800068944
+    second: Pal Sprite Sheet Idle_134
+  - first:
+      213: 6761987715062136638
+    second: Pal Sprite Sheet Idle_135
+  - first:
+      213: -4889519737855984534
+    second: Pal Sprite Sheet Idle_136
+  - first:
+      213: 4020603862755692222
+    second: Pal Sprite Sheet Idle_137
+  - first:
+      213: -2282080415722067708
+    second: Pal Sprite Sheet Idle_138
+  - first:
+      213: 1564537906947289873
+    second: Pal Sprite Sheet Idle_139
+  - first:
+      213: -8261503623851271080
+    second: Pal Sprite Sheet Idle_140
+  - first:
+      213: -2857246143171766154
+    second: Pal Sprite Sheet Idle_141
+  - first:
+      213: -3561867350317397240
+    second: Pal Sprite Sheet Idle_142
+  - first:
+      213: -2502956627117437717
+    second: Pal Sprite Sheet Idle_143
+  - first:
+      213: 2084206220981135574
+    second: Pal Sprite Sheet Idle_144
+  - first:
+      213: 6518535610450653273
+    second: Pal Sprite Sheet Idle_145
+  - first:
+      213: 2158311824979811815
+    second: Pal Sprite Sheet Idle_146
+  - first:
+      213: 3491520168688594068
+    second: Pal Sprite Sheet Idle_147
+  - first:
+      213: -8688606326542305292
+    second: Pal Sprite Sheet Idle_148
+  - first:
+      213: 8572388936436227509
+    second: Pal Sprite Sheet Idle_149
+  - first:
+      213: 5816511106846274950
+    second: Pal Sprite Sheet Idle_150
+  - first:
+      213: 8961566428704496705
+    second: Pal Sprite Sheet Idle_151
+  - first:
+      213: 4540698570598640964
+    second: Pal Sprite Sheet Idle_152
+  - first:
+      213: 7173792296308044637
+    second: Pal Sprite Sheet Idle_153
+  - first:
+      213: 6959894174234758056
+    second: Pal Sprite Sheet Idle_154
+  - first:
+      213: -1716075055978171654
+    second: Pal Sprite Sheet Idle_155
+  - first:
+      213: 7963643904497308921
+    second: Pal Sprite Sheet Idle_156
+  - first:
+      213: 2539137719440673407
+    second: Pal Sprite Sheet Idle_157
+  - first:
+      213: -3061958870758258388
+    second: Pal Sprite Sheet Idle_158
+  - first:
+      213: 4470348859280442638
+    second: Pal Sprite Sheet Idle_159
+  - first:
+      213: 2862849328887530898
+    second: Pal Sprite Sheet Idle_160
+  - first:
+      213: 4182059452399936239
+    second: Pal Sprite Sheet Idle_161
+  - first:
+      213: 498892074308237169
+    second: Pal Sprite Sheet Idle_162
+  - first:
+      213: -6164166959869704766
+    second: Pal Sprite Sheet Idle_163
+  - first:
+      213: -7155883255157670865
+    second: Pal Sprite Sheet Idle_164
+  - first:
+      213: -4668499058370561337
+    second: Pal Sprite Sheet Idle_165
+  - first:
+      213: -7792300016627022330
+    second: Pal Sprite Sheet Idle_166
+  - first:
+      213: 1173656429856369298
+    second: Pal Sprite Sheet Idle_167
+  - first:
+      213: -8985392028966876116
+    second: Pal Sprite Sheet Idle_168
+  - first:
+      213: -1099539568274471088
+    second: Pal Sprite Sheet Idle_169
+  - first:
+      213: -2200223668519794814
+    second: Pal Sprite Sheet Idle_170
+  - first:
+      213: -127623733261984724
+    second: Pal Sprite Sheet Idle_171
+  - first:
+      213: -5614761038509388022
+    second: Pal Sprite Sheet Idle_172
+  - first:
+      213: -3237983945590476257
+    second: Pal Sprite Sheet Idle_173
+  - first:
+      213: -2049458825832442618
+    second: Pal Sprite Sheet Idle_174
+  - first:
+      213: -638053930932516876
+    second: Pal Sprite Sheet Idle_175
+  - first:
+      213: 126985726138323005
+    second: Pal Sprite Sheet Idle_176
+  - first:
+      213: -2096070898601914901
+    second: Pal Sprite Sheet Idle_177
+  - first:
+      213: 635292194305773318
+    second: Pal Sprite Sheet Idle_178
+  - first:
+      213: 7027413790219096067
+    second: Pal Sprite Sheet Idle_179
+  - first:
+      213: 410858726646570444
+    second: Pal Sprite Sheet Idle_180
+  - first:
+      213: 1115176230837286872
+    second: Pal Sprite Sheet Idle_181
+  - first:
+      213: -3028534648146169622
+    second: Pal Sprite Sheet Idle_182
+  - first:
+      213: -2321025795487185721
+    second: Pal Sprite Sheet Idle_183
+  - first:
+      213: 428269976432344967
+    second: Pal Sprite Sheet Idle_184
+  - first:
+      213: -3315064502438947059
+    second: Pal Sprite Sheet Idle_185
+  - first:
+      213: 3343018839699747972
+    second: Pal Sprite Sheet Idle_186
+  - first:
+      213: -6653232019203163923
+    second: Pal Sprite Sheet Idle_187
+  - first:
+      213: 7929397578475111708
+    second: Pal Sprite Sheet Idle_188
+  - first:
+      213: -5916504981356783033
+    second: Pal Sprite Sheet Idle_189
+  - first:
+      213: -3287140477014887547
+    second: Pal Sprite Sheet Idle_190
+  - first:
+      213: -8910412942943633975
+    second: Pal Sprite Sheet Idle_191
+  - first:
+      213: 6647290361242584845
+    second: Pal Sprite Sheet Idle_192
+  - first:
+      213: -9116193448190249305
+    second: Pal Sprite Sheet Idle_193
+  - first:
+      213: -6364610353714572578
+    second: Pal Sprite Sheet Idle_194
+  - first:
+      213: 5830965051654870520
+    second: Pal Sprite Sheet Idle_195
+  - first:
+      213: -6736302136104245375
+    second: Pal Sprite Sheet Idle_196
+  - first:
+      213: -2747653098878546415
+    second: Pal Sprite Sheet Idle_197
+  - first:
+      213: 8030907588984428339
+    second: Pal Sprite Sheet Idle_198
+  - first:
+      213: 2423539413947813389
+    second: Pal Sprite Sheet Idle_199
+  - first:
+      213: 7019798614642307886
+    second: Pal Sprite Sheet Idle_200
+  - first:
+      213: -6411361001219677795
+    second: Pal Sprite Sheet Idle_201
+  - first:
+      213: -376959576810243196
+    second: Pal Sprite Sheet Idle_202
+  - first:
+      213: -2472293970085828687
+    second: Pal Sprite Sheet Idle_203
+  - first:
+      213: 8215132066571101125
+    second: Pal Sprite Sheet Idle_204
+  - first:
+      213: 8236501847428171172
+    second: Pal Sprite Sheet Idle_205
+  - first:
+      213: 2016416249053714972
+    second: Pal Sprite Sheet Idle_206
+  - first:
+      213: -5626238261718040896
+    second: Pal Sprite Sheet Idle_207
+  - first:
+      213: 2011222644467122046
+    second: Pal Sprite Sheet Idle_208
+  - first:
+      213: -1427312936488554314
+    second: Pal Sprite Sheet Idle_209
+  - first:
+      213: -2181381687228751655
+    second: Pal Sprite Sheet Idle_210
+  - first:
+      213: 8705601152169840919
+    second: Pal Sprite Sheet Idle_211
+  - first:
+      213: -6366636494922918359
+    second: Pal Sprite Sheet Idle_212
+  - first:
+      213: 179949124866144864
+    second: Pal Sprite Sheet Idle_213
+  - first:
+      213: 707414174513659497
+    second: Pal Sprite Sheet Idle_214
+  - first:
+      213: -8432250898064264169
+    second: Pal Sprite Sheet Idle_215
+  - first:
+      213: 1821989791393042824
+    second: Pal Sprite Sheet Idle_216
+  - first:
+      213: 1673426073518346005
+    second: Pal Sprite Sheet Idle_217
+  - first:
+      213: 1163946623317183257
+    second: Pal Sprite Sheet Idle_218
+  - first:
+      213: -6461074000638570703
+    second: Pal Sprite Sheet Idle_219
+  - first:
+      213: -1936079538876758076
+    second: Pal Sprite Sheet Idle_220
+  - first:
+      213: -6796354868631730515
+    second: Pal Sprite Sheet Idle_221
+  - first:
+      213: 1911861641952358299
+    second: Pal Sprite Sheet Idle_222
+  - first:
+      213: 1915265597819796997
+    second: Pal Sprite Sheet Idle_223
+  - first:
+      213: -5406252666656489459
+    second: Pal Sprite Sheet Idle_224
+  - first:
+      213: -4547157633794500480
+    second: Pal Sprite Sheet Idle_225
+  - first:
+      213: 2778921779555538872
+    second: Pal Sprite Sheet Idle_226
+  - first:
+      213: 1527781367009309361
+    second: Pal Sprite Sheet Idle_227
+  - first:
+      213: 2604597314088793587
+    second: Pal Sprite Sheet Idle_228
+  - first:
+      213: -3396463663746451497
+    second: Pal Sprite Sheet Idle_229
+  - first:
+      213: 331882123874689381
+    second: Pal Sprite Sheet Idle_230
+  - first:
+      213: 5320464703010731956
+    second: Pal Sprite Sheet Idle_231
+  - first:
+      213: 7674239630081910
+    second: Pal Sprite Sheet Idle_232
+  - first:
+      213: -7476101886628726040
+    second: Pal Sprite Sheet Idle_233
+  - first:
+      213: 6911276149180938957
+    second: Pal Sprite Sheet Idle_234
+  - first:
+      213: -2286316498967092657
+    second: Pal Sprite Sheet Idle_235
+  - first:
+      213: -409830787004085242
+    second: Pal Sprite Sheet Idle_236
+  - first:
+      213: -657953779848670673
+    second: Pal Sprite Sheet Idle_237
+  - first:
+      213: -7844532623549397019
+    second: Pal Sprite Sheet Idle_238
+  - first:
+      213: 3793575982205837031
+    second: Pal Sprite Sheet Idle_239
+  - first:
+      213: -6525065388300231910
+    second: Pal Sprite Sheet Idle_240
+  - first:
+      213: -2711470136329038429
+    second: Pal Sprite Sheet Idle_241
+  - first:
+      213: 4334427335057571027
+    second: Pal Sprite Sheet Idle_242
+  - first:
+      213: -1288402158075934483
+    second: Pal Sprite Sheet Idle_243
+  - first:
+      213: -8705463924503701697
+    second: Pal Sprite Sheet Idle_244
+  - first:
+      213: -7963589667724414025
+    second: Pal Sprite Sheet Idle_245
+  - first:
+      213: 7512852078558931392
+    second: Pal Sprite Sheet Idle_246
+  - first:
+      213: 2164174967325871690
+    second: Pal Sprite Sheet Idle_247
+  - first:
+      213: 8397451945628641380
+    second: Pal Sprite Sheet Idle_248
+  - first:
+      213: -856554881292589241
+    second: Pal Sprite Sheet Idle_249
+  - first:
+      213: -8457536348745496717
+    second: Pal Sprite Sheet Idle_250
+  - first:
+      213: 5616400451044579052
+    second: Pal Sprite Sheet Idle_251
+  - first:
+      213: -1162059856456446167
+    second: Pal Sprite Sheet Idle_252
+  - first:
+      213: -8748806578807058624
+    second: Pal Sprite Sheet Idle_253
+  - first:
+      213: -9134099412735197002
+    second: Pal Sprite Sheet Idle_254
+  - first:
+      213: 1400642083780702617
+    second: Pal Sprite Sheet Idle_255
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Pal Sprite Sheet Idle_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 11520
+        width: 942
+        height: 768
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86a2425463d0cb1b0800000000000000
+      internalID: -5639618106635310488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pal Sprite Sheet Idle_1
+      rect:
+        serializedVersion: 2
+        x: 942
+        y: 11520
+        width: 942
+        height: 768
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 742fb42439ab080b0800000000000000
+      internalID: -5728373584380038585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pal Sprite Sheet Idle_2
+      rect:
+        serializedVersion: 2
+        x: 1884
+        y: 11520
+        width: 942
+        height: 768
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: deaa03e8ac1450310800000000000000
+      internalID: 1370573999828937453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pal Sprite Sheet Idle_3
+      rect:
+        serializedVersion: 2
+        x: 2826
+        y: 11520
+        width: 942
+        height: 768
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82fe45fe66cdba1b0800000000000000
+      internalID: -5644175373318688984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pal Sprite Sheet Idle_4
+      rect:
+        serializedVersion: 2
+        x: 3768
+        y: 11520
+        width: 942
+        height: 768
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82382569745ac7a30800000000000000
+      internalID: 4214425078195192616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pal Sprite Sheet Idle_5
+      rect:
+        serializedVersion: 2
+        x: 4710
+        y: 11520
+        width: 942
+        height: 768
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8572e5f6d848fb720800000000000000
+      internalID: 2864153631024621400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pal Sprite Sheet Idle_6
+      rect:
+        serializedVersion: 2
+        x: 5652
+        y: 11520
+        width: 942
+        height: 768
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34eb637d5d76c95c0800000000000000
+      internalID: -4207373783734501821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pal Sprite Sheet Idle_7
+      rect:
+        serializedVersion: 2
+        x: 6594
+        y: 11520
+        width: 942
+        height: 768
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4dbd900667bd06220800000000000000
+      internalID: 2477221096517655508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pal Sprite Sheet Idle_8
+      rect:
+        serializedVersion: 2
+        x: 7536
+        y: 11520
+        width: 942
+        height: 768
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff67538eb0c203460800000000000000
+      internalID: 7219318632326985471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pal Sprite Sheet Idle_9
+      rect:
+        serializedVersion: 2
+        x: 8478
+        y: 11520
+        width: 942
+        height: 768
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3acd7f1502e714c60800000000000000
+      internalID: 7800654706861661347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pal Sprite Sheet Idle_10
+      rect:
+        serializedVersion: 2
+        x: 9420
+        y: 11520
+        width: 942
+        height: 768
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 344497d3f03947150800000000000000
+      internalID: 5869477908035748931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pal Sprite Sheet Idle_11
+      rect:
+        serializedVersion: 2
+        x: 10362
+        y: 11520
+        width: 942
+        height: 768
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e235c144599a322c0800000000000000
+      internalID: -4457532747608730834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pal Sprite Sheet Idle_12
+      rect:
+        serializedVersion: 2
+        x: 11304
+        y: 11520
+        width: 942
+        height: 768
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6dc550296ad64afd0800000000000000
+      internalID: -2331618144889250602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pal Sprite Sheet Idle_13
+      rect:
+        serializedVersion: 2
+        x: 12246
+        y: 11520
+        width: 942
+        height: 768
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a03c62a0354968a60800000000000000
+      internalID: 7675985699273097994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pal Sprite Sheet Idle_14
+      rect:
+        serializedVersion: 2
+        x: 13188
+        y: 11520
+        width: 942
+        height: 768
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bf065993be005890800000000000000
+      internalID: -7471455617273163856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pal Sprite Sheet Idle_15
+      rect:
+        serializedVersion: 2
+        x: 14130
+        y: 11520
+        width: 942
+        height: 768
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 744fc1c2f37375270800000000000000
+      internalID: 8239114787760174151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pal Sprite Sheet Idle_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 10752
+        width: 942
+        height: 768
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ba9272498b16b0d0800000000000000
+      internalID: -3407505791719925069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pal Sprite Sheet Idle_17
+      rect:
+        serializedVersion: 2
+        x: 942
+        y: 10752
+        width: 942
+        height: 768
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3c48c946d1316790800000000000000
+      internalID: -7538689504810873793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pal Sprite Sheet Idle_18
+      rect:
+        serializedVersion: 2
+        x: 1884
+        y: 10752
+        width: 942
+        height: 768
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfd0f039c70e2cf10800000000000000
+      internalID: 2288638386305437181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pal Sprite Sheet Idle_19
+      rect:
+        serializedVersion: 2
+        x: 2826
+        y: 10752
+        width: 942
+        height: 768
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac4856f8223eff310800000000000000
+      internalID: 1441120143356036298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pal Sprite Sheet Idle_20
+      rect:
+        serializedVersion: 2
+        x: 3768
+        y: 10752
+        width: 942
+        height: 768
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35f84dd0c0dced300800000000000000
+      internalID: 278885678598885203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pal Sprite Sheet Idle_21
+      rect:
+        serializedVersion: 2
+        x: 4710
+        y: 10752
+        width: 942
+        height: 768
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f974fe574d86cf080800000000000000
+      internalID: -9152325081002719329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pal Sprite Sheet Idle_22
+      rect:
+        serializedVersion: 2
+        x: 5652
+        y: 10752
+        width: 942
+        height: 768
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 795a1089a7052e630800000000000000
+      internalID: 3954811910251193751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pal Sprite Sheet Idle_23
+      rect:
+        serializedVersion: 2
+        x: 6594
+        y: 10752
+        width: 942
+        height: 768
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8a72d10efa423060800000000000000
+      internalID: 6931685231289334412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pal Sprite Sheet Idle_24
+      rect:
+        serializedVersion: 2
+        x: 7536
+        y: 10752
+        width: 942
+        height: 768
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e229d2bf0006a480800000000000000
+      internalID: -8888416747144011037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pal Sprite Sheet Idle_25
+      rect:
+        serializedVersion: 2
+        x: 8478
+        y: 10752
+        width: 942
+        height: 768
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec97d00aba1b033c0800000000000000
+      internalID: -4381807086748730930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pal Sprite Sheet Idle_26
+      rect:
+        serializedVersion: 2
+        x: 9420
+        y: 10752
+        width: 942
+        height: 768
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80a72399053dbcf60800000000000000
+      internalID: 8055764701603330568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pal Sprite Sheet Idle_27
+      rect:
+        serializedVersion: 2
+        x: 10362
+        y: 10752
+        width: 942
+        height: 768
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3393f3fd44831d00800000000000000
+      internalID: 942242217390740284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pal Sprite Sheet Idle_28
+      rect:
+        serializedVersion: 2
+        x: 11304
+        y: 10752
+        width: 942
+        height: 768
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83fef5116f9b6fb80800000000000000
+      internalID: -8361291191662153928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pal Sprite Sheet Idle_29
+      rect:
+        serializedVersion: 2
+        x: 12246
+        y: 10752
+        width: 942
+        height: 768
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acc5c99cac25f94b0800000000000000
+      internalID: -5431531594666189622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pal Sprite Sheet Idle_30
+      rect:
+        serializedVersion: 2
+        x: 13188
+        y: 10752
+        width: 942
+        height: 768
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 532432c70188dcb60800000000000000
+      internalID: 7768014536667513397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pal Sprite Sheet Idle_31
+      rect:
+        serializedVersion: 2
+        x: 14130
+        y: 10752
+        width: 942
+        height: 768
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 004d813d56d6b9000800000000000000
+      internalID: 43748905490895872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pal Sprite Sheet Idle_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 9984
+        width: 942
+        height: 768
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cab4fd74372ade000800000000000000
+      internalID: 66888185491180460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pal Sprite Sheet Idle_33
+      rect:
+        serializedVersion: 2
+        x: 942
+        y: 9984
+        width: 942
+        height: 768
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81786232f8e066f50800000000000000
+      internalID: 6874197889160480536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pal Sprite Sheet Idle_34
+      rect:
+        serializedVersion: 2
+        x: 1884
+        y: 9984
+        width: 942
+        height: 768
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 220495a0a5470a660800000000000000
+      internalID: 7395038518211854370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pal Sprite Sheet Idle_35
+      rect:
+        serializedVersion: 2
+        x: 2826
+        y: 9984
+        width: 942
+        height: 768
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e107824787897f690800000000000000
+      internalID: -7568413005660524514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pal Sprite Sheet Idle_36
+      rect:
+        serializedVersion: 2
+        x: 3768
+        y: 9984
+        width: 942
+        height: 768
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56359fbee39548b90800000000000000
+      internalID: -7240564174123084955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pal Sprite Sheet Idle_37
+      rect:
+        serializedVersion: 2
+        x: 4710
+        y: 9984
+        width: 942
+        height: 768
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bf1a649c51289ac0800000000000000
+      internalID: -3848289200077398094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pal Sprite Sheet Idle_38
+      rect:
+        serializedVersion: 2
+        x: 5652
+        y: 9984
+        width: 942
+        height: 768
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b77ad62acc2f56f20800000000000000
+      internalID: 3415402853142734715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pal Sprite Sheet Idle_39
+      rect:
+        serializedVersion: 2
+        x: 6594
+        y: 9984
+        width: 942
+        height: 768
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c81d577feb0b9f5f0800000000000000
+      internalID: -722351930974285428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pal Sprite Sheet Idle_40
+      rect:
+        serializedVersion: 2
+        x: 7536
+        y: 9984
+        width: 942
+        height: 768
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fad80817ebd97640800000000000000
+      internalID: 5078331840424106745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pal Sprite Sheet Idle_41
+      rect:
+        serializedVersion: 2
+        x: 8478
+        y: 9984
+        width: 942
+        height: 768
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24e31528513aeecb0800000000000000
+      internalID: -4832746037345960382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pal Sprite Sheet Idle_42
+      rect:
+        serializedVersion: 2
+        x: 9420
+        y: 9984
+        width: 942
+        height: 768
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9618af7df75ffd7c0800000000000000
+      internalID: -4044244010922245783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pal Sprite Sheet Idle_43
+      rect:
+        serializedVersion: 2
+        x: 10362
+        y: 9984
+        width: 942
+        height: 768
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8beb4441bb079c140800000000000000
+      internalID: 4740444031585402552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pal Sprite Sheet Idle_44
+      rect:
+        serializedVersion: 2
+        x: 11304
+        y: 9984
+        width: 942
+        height: 768
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5704d398b686aabe0800000000000000
+      internalID: -1465243917682392971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pal Sprite Sheet Idle_45
+      rect:
+        serializedVersion: 2
+        x: 12246
+        y: 9984
+        width: 942
+        height: 768
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0345616b829371c40800000000000000
+      internalID: 5482913918363259952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pal Sprite Sheet Idle_46
+      rect:
+        serializedVersion: 2
+        x: 13188
+        y: 9984
+        width: 942
+        height: 768
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6cc1da72b2006e60800000000000000
+      internalID: 7953359907524299882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pal Sprite Sheet Idle_47
+      rect:
+        serializedVersion: 2
+        x: 14130
+        y: 9984
+        width: 942
+        height: 768
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8908a58524060700800000000000000
+      internalID: 506096567328442766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pal Sprite Sheet Idle_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 9216
+        width: 942
+        height: 768
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b986cca72543059c0800000000000000
+      internalID: -3940592145097004901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pal Sprite Sheet Idle_49
+      rect:
+        serializedVersion: 2
+        x: 942
+        y: 9216
+        width: 942
+        height: 768
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3df9dc8b64a4cb500800000000000000
+      internalID: 413286933419892691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pal Sprite Sheet Idle_50
+      rect:
+        serializedVersion: 2
+        x: 1884
+        y: 9216
+        width: 942
+        height: 768
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1a2b9cf9c09bf1c0800000000000000
+      internalID: -4468819008034231782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pal Sprite Sheet Idle_51
+      rect:
+        serializedVersion: 2
+        x: 2826
+        y: 9216
+        width: 942
+        height: 768
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e300180c393f5c550800000000000000
+      internalID: 6180613879551295550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pal Sprite Sheet Idle_52
+      rect:
+        serializedVersion: 2
+        x: 3768
+        y: 9216
+        width: 942
+        height: 768
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a37450101cc3cf2a0800000000000000
+      internalID: -6702415345790662854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pal Sprite Sheet Idle_53
+      rect:
+        serializedVersion: 2
+        x: 4710
+        y: 9216
+        width: 942
+        height: 768
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7e0faae9a6cdca30800000000000000
+      internalID: 4237261257514618495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pal Sprite Sheet Idle_54
+      rect:
+        serializedVersion: 2
+        x: 5652
+        y: 9216
+        width: 942
+        height: 768
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 129a057d30c045870800000000000000
+      internalID: 8670568393231870241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pal Sprite Sheet Idle_55
+      rect:
+        serializedVersion: 2
+        x: 6594
+        y: 9216
+        width: 942
+        height: 768
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29132710c2b335b30800000000000000
+      internalID: 4274825531493593490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pal Sprite Sheet Idle_56
+      rect:
+        serializedVersion: 2
+        x: 7536
+        y: 9216
+        width: 942
+        height: 768
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8af273b6c0a9f9bb0800000000000000
+      internalID: -4927050089190969432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pal Sprite Sheet Idle_57
+      rect:
+        serializedVersion: 2
+        x: 8478
+        y: 9216
+        width: 942
+        height: 768
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e85983e561c741550800000000000000
+      internalID: 6130661428269979022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pal Sprite Sheet Idle_58
+      rect:
+        serializedVersion: 2
+        x: 9420
+        y: 9216
+        width: 942
+        height: 768
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f63d1b6cfc5691dd0800000000000000
+      internalID: -2514866973843532945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pal Sprite Sheet Idle_59
+      rect:
+        serializedVersion: 2
+        x: 10362
+        y: 9216
+        width: 942
+        height: 768
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e06b2772d6e9969f0800000000000000
+      internalID: -474674094060423666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pal Sprite Sheet Idle_60
+      rect:
+        serializedVersion: 2
+        x: 11304
+        y: 9216
+        width: 942
+        height: 768
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32ff9b983c9fb7120800000000000000
+      internalID: 2412796643611639587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pal Sprite Sheet Idle_61
+      rect:
+        serializedVersion: 2
+        x: 12246
+        y: 9216
+        width: 942
+        height: 768
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae00d25e9c33a06d0800000000000000
+      internalID: -3023547257599491862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pal Sprite Sheet Idle_62
+      rect:
+        serializedVersion: 2
+        x: 13188
+        y: 9216
+        width: 942
+        height: 768
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7db8bb4ce79ddff0800000000000000
+      internalID: -9684583046398593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pal Sprite Sheet Idle_63
+      rect:
+        serializedVersion: 2
+        x: 14130
+        y: 9216
+        width: 942
+        height: 768
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36d11227fd83991d0800000000000000
+      internalID: -3343578716002247325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pal Sprite Sheet Idle_64
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 8448
+        width: 942
+        height: 768
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71a2640eb325e8a50800000000000000
+      internalID: 6525243327225670167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pal Sprite Sheet Idle_65
+      rect:
+        serializedVersion: 2
+        x: 942
+        y: 8448
+        width: 942
+        height: 768
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff11deb123e78a350800000000000000
+      internalID: 6028206854917394943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pal Sprite Sheet Idle_66
+      rect:
+        serializedVersion: 2
+        x: 1884
+        y: 8448
+        width: 942
+        height: 768
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34a3a6899cd34c3f0800000000000000
+      internalID: -881511691002955197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pal Sprite Sheet Idle_67
+      rect:
+        serializedVersion: 2
+        x: 2826
+        y: 8448
+        width: 942
+        height: 768
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84706f728e9f49030800000000000000
+      internalID: 3500697585871882056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pal Sprite Sheet Idle_68
+      rect:
+        serializedVersion: 2
+        x: 3768
+        y: 8448
+        width: 942
+        height: 768
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0400e34651e307700800000000000000
+      internalID: 535996617254109248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pal Sprite Sheet Idle_69
+      rect:
+        serializedVersion: 2
+        x: 4710
+        y: 8448
+        width: 942
+        height: 768
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01b7959a2724f5260800000000000000
+      internalID: 7088457398739368720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pal Sprite Sheet Idle_70
+      rect:
+        serializedVersion: 2
+        x: 5652
+        y: 8448
+        width: 942
+        height: 768
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75340e780e79b8940800000000000000
+      internalID: 5299496377139610455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pal Sprite Sheet Idle_71
+      rect:
+        serializedVersion: 2
+        x: 6594
+        y: 8448
+        width: 942
+        height: 768
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0049c3d1481dc5900800000000000000
+      internalID: 674644409555129344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pal Sprite Sheet Idle_72
+      rect:
+        serializedVersion: 2
+        x: 7536
+        y: 8448
+        width: 942
+        height: 768
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 534c4f6b5363c8890800000000000000
+      internalID: -7454523678874352587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pal Sprite Sheet Idle_73
+      rect:
+        serializedVersion: 2
+        x: 8478
+        y: 8448
+        width: 942
+        height: 768
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a544efa819ce1680800000000000000
+      internalID: -8782361115458517599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pal Sprite Sheet Idle_74
+      rect:
+        serializedVersion: 2
+        x: 9420
+        y: 8448
+        width: 942
+        height: 768
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cba66f749951fb310800000000000000
+      internalID: 1422879755353877180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pal Sprite Sheet Idle_75
+      rect:
+        serializedVersion: 2
+        x: 10362
+        y: 8448
+        width: 942
+        height: 768
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 457d6fd2c22de5670800000000000000
+      internalID: 8529485831477843796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pal Sprite Sheet Idle_76
+      rect:
+        serializedVersion: 2
+        x: 11304
+        y: 8448
+        width: 942
+        height: 768
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 265776e60eaca6e50800000000000000
+      internalID: 6803473252370314594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pal Sprite Sheet Idle_77
+      rect:
+        serializedVersion: 2
+        x: 12246
+        y: 8448
+        width: 942
+        height: 768
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4dfd0aa6254da1bb0800000000000000
+      internalID: -4964422188781215788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pal Sprite Sheet Idle_78
+      rect:
+        serializedVersion: 2
+        x: 13188
+        y: 8448
+        width: 942
+        height: 768
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33c9f1928298349e0800000000000000
+      internalID: -1638315033851093965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pal Sprite Sheet Idle_79
+      rect:
+        serializedVersion: 2
+        x: 14130
+        y: 8448
+        width: 942
+        height: 768
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f974a8c74e4c8bf70800000000000000
+      internalID: 9203322324152633247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pal Sprite Sheet Idle_80
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 7680
+        width: 942
+        height: 768
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70e5e88074d4bec50800000000000000
+      internalID: 6695530238497938951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pal Sprite Sheet Idle_81
+      rect:
+        serializedVersion: 2
+        x: 942
+        y: 7680
+        width: 942
+        height: 768
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14c7aae1e0a5ce080800000000000000
+      internalID: -9156844925660529599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pal Sprite Sheet Idle_82
+      rect:
+        serializedVersion: 2
+        x: 1884
+        y: 7680
+        width: 942
+        height: 768
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6fcec38e3448f8f0800000000000000
+      internalID: -506579922789150866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pal Sprite Sheet Idle_83
+      rect:
+        serializedVersion: 2
+        x: 2826
+        y: 7680
+        width: 942
+        height: 768
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d77a8481c592dc5a0800000000000000
+      internalID: -6499493211704612995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pal Sprite Sheet Idle_84
+      rect:
+        serializedVersion: 2
+        x: 3768
+        y: 7680
+        width: 942
+        height: 768
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 359a6d197af7e5f70800000000000000
+      internalID: 9177913448310679891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pal Sprite Sheet Idle_85
+      rect:
+        serializedVersion: 2
+        x: 4710
+        y: 7680
+        width: 942
+        height: 768
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a9ab7f523d940bb0800000000000000
+      internalID: -4970675249034319448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pal Sprite Sheet Idle_86
+      rect:
+        serializedVersion: 2
+        x: 5652
+        y: 7680
+        width: 942
+        height: 768
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5bf0f50fbf740420800000000000000
+      internalID: 2595339743687408474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pal Sprite Sheet Idle_87
+      rect:
+        serializedVersion: 2
+        x: 6594
+        y: 7680
+        width: 942
+        height: 768
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bf247230826d8d10800000000000000
+      internalID: 2129466501557923766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pal Sprite Sheet Idle_88
+      rect:
+        serializedVersion: 2
+        x: 7536
+        y: 7680
+        width: 942
+        height: 768
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 859e9cfcc97bbac90800000000000000
+      internalID: -7157425298646374056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pal Sprite Sheet Idle_89
+      rect:
+        serializedVersion: 2
+        x: 8478
+        y: 7680
+        width: 942
+        height: 768
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e8ba5a14cdc93ab0800000000000000
+      internalID: -5027761266843010841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pal Sprite Sheet Idle_90
+      rect:
+        serializedVersion: 2
+        x: 9420
+        y: 7680
+        width: 942
+        height: 768
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a0ff3cd3ff6c35c0800000000000000
+      internalID: -4234386456472194904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pal Sprite Sheet Idle_91
+      rect:
+        serializedVersion: 2
+        x: 10362
+        y: 7680
+        width: 942
+        height: 768
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe6031eeb0e36b490800000000000000
+      internalID: -7730923489375090961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pal Sprite Sheet Idle_92
+      rect:
+        serializedVersion: 2
+        x: 11304
+        y: 7680
+        width: 942
+        height: 768
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fb322ef62d24f620800000000000000
+      internalID: 2806918113254325241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pal Sprite Sheet Idle_93
+      rect:
+        serializedVersion: 2
+        x: 12246
+        y: 7680
+        width: 942
+        height: 768
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eea213b88d0cd2bf0800000000000000
+      internalID: -347409559956935954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pal Sprite Sheet Idle_94
+      rect:
+        serializedVersion: 2
+        x: 13188
+        y: 7680
+        width: 942
+        height: 768
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 259c64d1f26155b90800000000000000
+      internalID: -7253867233199863470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pal Sprite Sheet Idle_95
+      rect:
+        serializedVersion: 2
+        x: 14130
+        y: 7680
+        width: 942
+        height: 768
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8862f7ae4419a6e90800000000000000
+      internalID: -7031648143007603064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pal Sprite Sheet Idle_96
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 6912
+        width: 942
+        height: 768
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 972bcd87588ed53e0800000000000000
+      internalID: -2063237394309795207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pal Sprite Sheet Idle_97
+      rect:
+        serializedVersion: 2
+        x: 942
+        y: 6912
+        width: 942
+        height: 768
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00ded5a1601b07440800000000000000
+      internalID: 4931636231740976384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pal Sprite Sheet Idle_98
+      rect:
+        serializedVersion: 2
+        x: 1884
+        y: 6912
+        width: 942
+        height: 768
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c1cdc15c2398f910800000000000000
+      internalID: 1871407463732724166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pal Sprite Sheet Idle_99
+      rect:
+        serializedVersion: 2
+        x: 2826
+        y: 6912
+        width: 942
+        height: 768
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7aa7000d29ba1c30800000000000000
+      internalID: 4330977594595322492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pal Sprite Sheet Idle_100
+      rect:
+        serializedVersion: 2
+        x: 3768
+        y: 6912
+        width: 942
+        height: 768
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5eca20e74f7a5860800000000000000
+      internalID: 7519462474528771674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pal Sprite Sheet Idle_101
+      rect:
+        serializedVersion: 2
+        x: 4710
+        y: 6912
+        width: 942
+        height: 768
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e08853af611a3e480800000000000000
+      internalID: -8871069720930580466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pal Sprite Sheet Idle_102
+      rect:
+        serializedVersion: 2
+        x: 5652
+        y: 6912
+        width: 942
+        height: 768
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2a9b49b0a26cb2c0800000000000000
+      internalID: -4414545092286899666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pal Sprite Sheet Idle_103
+      rect:
+        serializedVersion: 2
+        x: 6594
+        y: 6912
+        width: 942
+        height: 768
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adc0df34d10809b40800000000000000
+      internalID: 5444992812673993946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pal Sprite Sheet Idle_104
+      rect:
+        serializedVersion: 2
+        x: 7536
+        y: 6912
+        width: 942
+        height: 768
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4bb5823f1a2ee990800000000000000
+      internalID: -7354894827969463475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pal Sprite Sheet Idle_105
+      rect:
+        serializedVersion: 2
+        x: 8478
+        y: 6912
+        width: 942
+        height: 768
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96d6fe279fcff35f0800000000000000
+      internalID: -774622462579085975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pal Sprite Sheet Idle_106
+      rect:
+        serializedVersion: 2
+        x: 9420
+        y: 6912
+        width: 942
+        height: 768
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea2de7472eb9a27b0800000000000000
+      internalID: -5248211018827509074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pal Sprite Sheet Idle_107
+      rect:
+        serializedVersion: 2
+        x: 10362
+        y: 6912
+        width: 942
+        height: 768
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4849079593fba6140800000000000000
+      internalID: 4713790213031236740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pal Sprite Sheet Idle_108
+      rect:
+        serializedVersion: 2
+        x: 11304
+        y: 6912
+        width: 942
+        height: 768
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 049e3e09097442c10800000000000000
+      internalID: 2027824418455284032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pal Sprite Sheet Idle_109
+      rect:
+        serializedVersion: 2
+        x: 12246
+        y: 6912
+        width: 942
+        height: 768
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7099dded021fd3330800000000000000
+      internalID: 3692372392993986823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pal Sprite Sheet Idle_110
+      rect:
+        serializedVersion: 2
+        x: 13188
+        y: 6912
+        width: 942
+        height: 768
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90d6fafdd30bd5ae0800000000000000
+      internalID: -1558896116208014071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pal Sprite Sheet Idle_111
+      rect:
+        serializedVersion: 2
+        x: 14130
+        y: 6912
+        width: 942
+        height: 768
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39a4472466bb477d0800000000000000
+      internalID: -2921504210380633453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pal Sprite Sheet Idle_112
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 6144
+        width: 942
+        height: 768
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 094b0f5cf94533da0800000000000000
+      internalID: -5966332036138355568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pal Sprite Sheet Idle_113
+      rect:
+        serializedVersion: 2
+        x: 942
+        y: 6144
+        width: 942
+        height: 768
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eec4bfb509e9edfc0800000000000000
+      internalID: -3468160320173028114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pal Sprite Sheet Idle_114
+      rect:
+        serializedVersion: 2
+        x: 1884
+        y: 6144
+        width: 942
+        height: 768
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7b71a55e742de5c0800000000000000
+      internalID: -4184648353736197254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pal Sprite Sheet Idle_115
+      rect:
+        serializedVersion: 2
+        x: 2826
+        y: 6144
+        width: 942
+        height: 768
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a233a9b4ac799b830800000000000000
+      internalID: 4087465031923020586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pal Sprite Sheet Idle_116
+      rect:
+        serializedVersion: 2
+        x: 3768
+        y: 6144
+        width: 942
+        height: 768
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 922b3631945d340f0800000000000000
+      internalID: -1133828171332603351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pal Sprite Sheet Idle_117
+      rect:
+        serializedVersion: 2
+        x: 4710
+        y: 6144
+        width: 942
+        height: 768
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e5ae86f98d78cd60800000000000000
+      internalID: 7910710776976811495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pal Sprite Sheet Idle_118
+      rect:
+        serializedVersion: 2
+        x: 5652
+        y: 6144
+        width: 942
+        height: 768
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 200782c06ae0550d0800000000000000
+      internalID: -3434823034468798462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pal Sprite Sheet Idle_119
+      rect:
+        serializedVersion: 2
+        x: 6594
+        y: 6144
+        width: 942
+        height: 768
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94f2d8c06eb174660800000000000000
+      internalID: 7369889990082113353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pal Sprite Sheet Idle_120
+      rect:
+        serializedVersion: 2
+        x: 7536
+        y: 6144
+        width: 942
+        height: 768
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: caa828798e8cf3d40800000000000000
+      internalID: 5566388565753105068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pal Sprite Sheet Idle_121
+      rect:
+        serializedVersion: 2
+        x: 8478
+        y: 6144
+        width: 942
+        height: 768
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: debbad77de5c43140800000000000000
+      internalID: 4698597934963014637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pal Sprite Sheet Idle_122
+      rect:
+        serializedVersion: 2
+        x: 9420
+        y: 6144
+        width: 942
+        height: 768
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3d3b712f43f4b340800000000000000
+      internalID: 4878791817538780475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pal Sprite Sheet Idle_123
+      rect:
+        serializedVersion: 2
+        x: 10362
+        y: 6144
+        width: 942
+        height: 768
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47aa8e84c41eb39e0800000000000000
+      internalID: -1640469921489442188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pal Sprite Sheet Idle_124
+      rect:
+        serializedVersion: 2
+        x: 11304
+        y: 6144
+        width: 942
+        height: 768
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f04b1c3daa7f4aee0800000000000000
+      internalID: -1250602483432967153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pal Sprite Sheet Idle_125
+      rect:
+        serializedVersion: 2
+        x: 12246
+        y: 6144
+        width: 942
+        height: 768
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 621545b7cb2b0e000800000000000000
+      internalID: 63246917375906086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pal Sprite Sheet Idle_126
+      rect:
+        serializedVersion: 2
+        x: 13188
+        y: 6144
+        width: 942
+        height: 768
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d169fef340ca33fe0800000000000000
+      internalID: -1210434740580018659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pal Sprite Sheet Idle_127
+      rect:
+        serializedVersion: 2
+        x: 14130
+        y: 6144
+        width: 942
+        height: 768
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3940d23576f9d210800000000000000
+      internalID: 1358387745853032764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pal Sprite Sheet Idle_128
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5376
+        width: 942
+        height: 768
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1077798784adde750800000000000000
+      internalID: 6335960255575848705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pal Sprite Sheet Idle_129
+      rect:
+        serializedVersion: 2
+        x: 942
+        y: 5376
+        width: 942
+        height: 768
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 721573847c7c42410800000000000000
+      internalID: 1451504638644146471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pal Sprite Sheet Idle_130
+      rect:
+        serializedVersion: 2
+        x: 1884
+        y: 5376
+        width: 942
+        height: 768
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b09ef99794ac8110800000000000000
+      internalID: 1264566566414880949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pal Sprite Sheet Idle_131
+      rect:
+        serializedVersion: 2
+        x: 2826
+        y: 5376
+        width: 942
+        height: 768
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2325cc0c8fad5c80800000000000000
+      internalID: -8332310719521021142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pal Sprite Sheet Idle_132
+      rect:
+        serializedVersion: 2
+        x: 3768
+        y: 5376
+        width: 942
+        height: 768
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80cfcfec935c39a80800000000000000
+      internalID: -8461202422822536184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pal Sprite Sheet Idle_133
+      rect:
+        serializedVersion: 2
+        x: 4710
+        y: 5376
+        width: 942
+        height: 768
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 589912e62100ae240800000000000000
+      internalID: 4821666430210644357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pal Sprite Sheet Idle_134
+      rect:
+        serializedVersion: 2
+        x: 5652
+        y: 5376
+        width: 942
+        height: 768
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b005a829782019f0800000000000000
+      internalID: -499855057800068944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pal Sprite Sheet Idle_135
+      rect:
+        serializedVersion: 2
+        x: 6594
+        y: 5376
+        width: 942
+        height: 768
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3f75d3100867dd50800000000000000
+      internalID: 6761987715062136638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pal Sprite Sheet Idle_136
+      rect:
+        serializedVersion: 2
+        x: 7536
+        y: 5376
+        width: 942
+        height: 768
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6c35d644bfe42cb0800000000000000
+      internalID: -4889519737855984534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pal Sprite Sheet Idle_137
+      rect:
+        serializedVersion: 2
+        x: 8478
+        y: 5376
+        width: 942
+        height: 768
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebecd1e39ed0cc730800000000000000
+      internalID: 4020603862755692222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pal Sprite Sheet Idle_138
+      rect:
+        serializedVersion: 2
+        x: 9420
+        y: 5376
+        width: 942
+        height: 768
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 409a200f3fb6450e0800000000000000
+      internalID: -2282080415722067708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pal Sprite Sheet Idle_139
+      rect:
+        serializedVersion: 2
+        x: 10362
+        y: 5376
+        width: 942
+        height: 768
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 113f935efea56b510800000000000000
+      internalID: 1564537906947289873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pal Sprite Sheet Idle_140
+      rect:
+        serializedVersion: 2
+        x: 11304
+        y: 5376
+        width: 942
+        height: 768
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85c1eb5b93e395d80800000000000000
+      internalID: -8261503623851271080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pal Sprite Sheet Idle_141
+      rect:
+        serializedVersion: 2
+        x: 12246
+        y: 5376
+        width: 942
+        height: 768
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 678546865c50958d0800000000000000
+      internalID: -2857246143171766154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pal Sprite Sheet Idle_142
+      rect:
+        serializedVersion: 2
+        x: 13188
+        y: 5376
+        width: 942
+        height: 768
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80b05473484b19ec0800000000000000
+      internalID: -3561867350317397240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pal Sprite Sheet Idle_143
+      rect:
+        serializedVersion: 2
+        x: 14130
+        y: 5376
+        width: 942
+        height: 768
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bec84787536b34dd0800000000000000
+      internalID: -2502956627117437717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pal Sprite Sheet Idle_144
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4608
+        width: 942
+        height: 768
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d86d30f3869cec10800000000000000
+      internalID: 2084206220981135574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pal Sprite Sheet Idle_145
+      rect:
+        serializedVersion: 2
+        x: 942
+        y: 4608
+        width: 942
+        height: 768
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95035acd99d767a50800000000000000
+      internalID: 6518535610450653273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pal Sprite Sheet Idle_146
+      rect:
+        serializedVersion: 2
+        x: 1884
+        y: 4608
+        width: 942
+        height: 768
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ed527a6b2dd3fd10800000000000000
+      internalID: 2158311824979811815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pal Sprite Sheet Idle_147
+      rect:
+        serializedVersion: 2
+        x: 2826
+        y: 4608
+        width: 942
+        height: 768
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49cabc4381f547030800000000000000
+      internalID: 3491520168688594068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pal Sprite Sheet Idle_148
+      rect:
+        serializedVersion: 2
+        x: 3768
+        y: 4608
+        width: 942
+        height: 768
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f7fb39849edb6780800000000000000
+      internalID: -8688606326542305292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pal Sprite Sheet Idle_149
+      rect:
+        serializedVersion: 2
+        x: 4710
+        y: 4608
+        width: 942
+        height: 768
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bd15c8b15e37f670800000000000000
+      internalID: 8572388936436227509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pal Sprite Sheet Idle_150
+      rect:
+        serializedVersion: 2
+        x: 5652
+        y: 4608
+        width: 942
+        height: 768
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 685bfa3d80668b050800000000000000
+      internalID: 5816511106846274950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pal Sprite Sheet Idle_151
+      rect:
+        serializedVersion: 2
+        x: 6594
+        y: 4608
+        width: 942
+        height: 768
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14c5ffdbf21ed5c70800000000000000
+      internalID: 8961566428704496705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pal Sprite Sheet Idle_152
+      rect:
+        serializedVersion: 2
+        x: 7536
+        y: 4608
+        width: 942
+        height: 768
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44de7a4da4dc30f30800000000000000
+      internalID: 4540698570598640964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pal Sprite Sheet Idle_153
+      rect:
+        serializedVersion: 2
+        x: 8478
+        y: 4608
+        width: 942
+        height: 768
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d53ffd9c51e6e8360800000000000000
+      internalID: 7173792296308044637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pal Sprite Sheet Idle_154
+      rect:
+        serializedVersion: 2
+        x: 9420
+        y: 4608
+        width: 942
+        height: 768
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8abc29950e2869060800000000000000
+      internalID: 6959894174234758056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pal Sprite Sheet Idle_155
+      rect:
+        serializedVersion: 2
+        x: 10362
+        y: 4608
+        width: 942
+        height: 768
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af2338824d64f28e0800000000000000
+      internalID: -1716075055978171654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pal Sprite Sheet Idle_156
+      rect:
+        serializedVersion: 2
+        x: 11304
+        y: 4608
+        width: 942
+        height: 768
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f4544d10fb848e60800000000000000
+      internalID: 7963643904497308921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pal Sprite Sheet Idle_157
+      rect:
+        serializedVersion: 2
+        x: 12246
+        y: 4608
+        width: 942
+        height: 768
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7a8e0b8d44dc3320800000000000000
+      internalID: 2539137719440673407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pal Sprite Sheet Idle_158
+      rect:
+        serializedVersion: 2
+        x: 13188
+        y: 4608
+        width: 942
+        height: 768
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c29099741acb185d0800000000000000
+      internalID: -3061958870758258388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pal Sprite Sheet Idle_159
+      rect:
+        serializedVersion: 2
+        x: 14130
+        y: 4608
+        width: 942
+        height: 768
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e05cb734a9ed90e30800000000000000
+      internalID: 4470348859280442638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pal Sprite Sheet Idle_160
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3840
+        width: 942
+        height: 768
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2958ecdeb42eab720800000000000000
+      internalID: 2862849328887530898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pal Sprite Sheet Idle_161
+      rect:
+        serializedVersion: 2
+        x: 942
+        y: 3840
+        width: 942
+        height: 768
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe2ecd91ae8a90a30800000000000000
+      internalID: 4182059452399936239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pal Sprite Sheet Idle_162
+      rect:
+        serializedVersion: 2
+        x: 1884
+        y: 3840
+        width: 942
+        height: 768
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1777666c2bb6ce600800000000000000
+      internalID: 498892074308237169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pal Sprite Sheet Idle_163
+      rect:
+        serializedVersion: 2
+        x: 2826
+        y: 3840
+        width: 942
+        height: 768
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c544c42fca747aa0800000000000000
+      internalID: -6164166959869704766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pal Sprite Sheet Idle_164
+      rect:
+        serializedVersion: 2
+        x: 3768
+        y: 3840
+        width: 942
+        height: 768
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2c392ac71231bc90800000000000000
+      internalID: -7155883255157670865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pal Sprite Sheet Idle_165
+      rect:
+        serializedVersion: 2
+        x: 4710
+        y: 3840
+        width: 942
+        height: 768
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cab39757d8263fb0800000000000000
+      internalID: -4668499058370561337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pal Sprite Sheet Idle_166
+      rect:
+        serializedVersion: 2
+        x: 5652
+        y: 3840
+        width: 942
+        height: 768
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6060da59b603cd390800000000000000
+      internalID: -7792300016627022330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pal Sprite Sheet Idle_167
+      rect:
+        serializedVersion: 2
+        x: 6594
+        y: 3840
+        width: 942
+        height: 768
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29a21fdfd4aa94010800000000000000
+      internalID: 1173656429856369298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pal Sprite Sheet Idle_168
+      rect:
+        serializedVersion: 2
+        x: 7536
+        y: 3840
+        width: 942
+        height: 768
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2c8dc96e897d4380800000000000000
+      internalID: -8985392028966876116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pal Sprite Sheet Idle_169
+      rect:
+        serializedVersion: 2
+        x: 8478
+        y: 3840
+        width: 942
+        height: 768
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05783889696adb0f0800000000000000
+      internalID: -1099539568274471088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pal Sprite Sheet Idle_170
+      rect:
+        serializedVersion: 2
+        x: 9420
+        y: 3840
+        width: 942
+        height: 768
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28788731b3c3771e0800000000000000
+      internalID: -2200223668519794814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pal Sprite Sheet Idle_171
+      rect:
+        serializedVersion: 2
+        x: 10362
+        y: 3840
+        width: 942
+        height: 768
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2c920a04e69a3ef0800000000000000
+      internalID: -127623733261984724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pal Sprite Sheet Idle_172
+      rect:
+        serializedVersion: 2
+        x: 11304
+        y: 3840
+        width: 942
+        height: 768
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0fc1f0759c5412b0800000000000000
+      internalID: -5614761038509388022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pal Sprite Sheet Idle_173
+      rect:
+        serializedVersion: 2
+        x: 12246
+        y: 3840
+        width: 942
+        height: 768
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1279aec1ce5013d0800000000000000
+      internalID: -3237983945590476257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pal Sprite Sheet Idle_174
+      rect:
+        serializedVersion: 2
+        x: 13188
+        y: 3840
+        width: 942
+        height: 768
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 605d7707e0cde83e0800000000000000
+      internalID: -2049458825832442618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pal Sprite Sheet Idle_175
+      rect:
+        serializedVersion: 2
+        x: 14130
+        y: 3840
+        width: 942
+        height: 768
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f7c933945d2527f0800000000000000
+      internalID: -638053930932516876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pal Sprite Sheet Idle_176
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3072
+        width: 942
+        height: 768
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d30150a58d423c100800000000000000
+      internalID: 126985726138323005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pal Sprite Sheet Idle_177
+      rect:
+        serializedVersion: 2
+        x: 942
+        y: 3072
+        width: 942
+        height: 768
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bed8cc88f9249e2e0800000000000000
+      internalID: -2096070898601914901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pal Sprite Sheet Idle_178
+      rect:
+        serializedVersion: 2
+        x: 1884
+        y: 3072
+        width: 942
+        height: 768
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60f8c2282e201d800800000000000000
+      internalID: 635292194305773318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pal Sprite Sheet Idle_179
+      rect:
+        serializedVersion: 2
+        x: 2826
+        y: 3072
+        width: 942
+        height: 768
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 300d0bffb93668160800000000000000
+      internalID: 7027413790219096067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pal Sprite Sheet Idle_180
+      rect:
+        serializedVersion: 2
+        x: 3768
+        y: 3072
+        width: 942
+        height: 768
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccd53a6c5d9a3b500800000000000000
+      internalID: 410858726646570444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pal Sprite Sheet Idle_181
+      rect:
+        serializedVersion: 2
+        x: 4710
+        y: 3072
+        width: 942
+        height: 768
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d7f30d9fd6e97f00800000000000000
+      internalID: 1115176230837286872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pal Sprite Sheet Idle_182
+      rect:
+        serializedVersion: 2
+        x: 5652
+        y: 3072
+        width: 942
+        height: 768
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae0f84b88cb78f5d0800000000000000
+      internalID: -3028534648146169622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pal Sprite Sheet Idle_183
+      rect:
+        serializedVersion: 2
+        x: 6594
+        y: 3072
+        width: 942
+        height: 768
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c4c779165f0acfd0800000000000000
+      internalID: -2321025795487185721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pal Sprite Sheet Idle_184
+      rect:
+        serializedVersion: 2
+        x: 7536
+        y: 3072
+        width: 942
+        height: 768
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78ff635464581f500800000000000000
+      internalID: 428269976432344967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pal Sprite Sheet Idle_185
+      rect:
+        serializedVersion: 2
+        x: 8478
+        y: 3072
+        width: 942
+        height: 768
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d079e9426668ef1d0800000000000000
+      internalID: -3315064502438947059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pal Sprite Sheet Idle_186
+      rect:
+        serializedVersion: 2
+        x: 9420
+        y: 3072
+        width: 942
+        height: 768
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 484fdb13ce9c46e20800000000000000
+      internalID: 3343018839699747972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pal Sprite Sheet Idle_187
+      rect:
+        serializedVersion: 2
+        x: 10362
+        y: 3072
+        width: 942
+        height: 768
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de8f3279ab8faa3a0800000000000000
+      internalID: -6653232019203163923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pal Sprite Sheet Idle_188
+      rect:
+        serializedVersion: 2
+        x: 11304
+        y: 3072
+        width: 942
+        height: 768
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c150adbf511ea0e60800000000000000
+      internalID: 7929397578475111708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pal Sprite Sheet Idle_189
+      rect:
+        serializedVersion: 2
+        x: 12246
+        y: 3072
+        width: 942
+        height: 768
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74a5662011a54eda0800000000000000
+      internalID: -5916504981356783033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pal Sprite Sheet Idle_190
+      rect:
+        serializedVersion: 2
+        x: 13188
+        y: 3072
+        width: 942
+        height: 768
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58338b4f62bb162d0800000000000000
+      internalID: -3287140477014887547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pal Sprite Sheet Idle_191
+      rect:
+        serializedVersion: 2
+        x: 14130
+        y: 3072
+        width: 942
+        height: 768
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cd3dc543aad75480800000000000000
+      internalID: -8910412942943633975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pal Sprite Sheet Idle_192
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2304
+        width: 942
+        height: 768
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d070ebc5d5bef3c50800000000000000
+      internalID: 6647290361242584845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pal Sprite Sheet Idle_193
+      rect:
+        serializedVersion: 2
+        x: 942
+        y: 2304
+        width: 942
+        height: 768
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a670e8cb56cc7180800000000000000
+      internalID: -9116193448190249305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pal Sprite Sheet Idle_194
+      rect:
+        serializedVersion: 2
+        x: 1884
+        y: 2304
+        width: 942
+        height: 768
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed2d11dba9c5ca7a0800000000000000
+      internalID: -6364610353714572578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pal Sprite Sheet Idle_195
+      rect:
+        serializedVersion: 2
+        x: 2826
+        y: 2304
+        width: 942
+        height: 768
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f51b9912dfbbe050800000000000000
+      internalID: 5830965051654870520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pal Sprite Sheet Idle_196
+      rect:
+        serializedVersion: 2
+        x: 3768
+        y: 2304
+        width: 942
+        height: 768
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1872dcdc5e8d382a0800000000000000
+      internalID: -6736302136104245375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pal Sprite Sheet Idle_197
+      rect:
+        serializedVersion: 2
+        x: 4710
+        y: 2304
+        width: 942
+        height: 768
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11ec75370106ed9d0800000000000000
+      internalID: -2747653098878546415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pal Sprite Sheet Idle_198
+      rect:
+        serializedVersion: 2
+        x: 5652
+        y: 2304
+        width: 942
+        height: 768
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 337d76117e3837f60800000000000000
+      internalID: 8030907588984428339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pal Sprite Sheet Idle_199
+      rect:
+        serializedVersion: 2
+        x: 6594
+        y: 2304
+        width: 942
+        height: 768
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0e848ba14422a120800000000000000
+      internalID: 2423539413947813389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pal Sprite Sheet Idle_200
+      rect:
+        serializedVersion: 2
+        x: 7536
+        y: 2304
+        width: 942
+        height: 768
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e23b884c5a55b6160800000000000000
+      internalID: 7019798614642307886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pal Sprite Sheet Idle_201
+      rect:
+        serializedVersion: 2
+        x: 8478
+        y: 2304
+        width: 942
+        height: 768
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d91228363254607a0800000000000000
+      internalID: -6411361001219677795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pal Sprite Sheet Idle_202
+      rect:
+        serializedVersion: 2
+        x: 9420
+        y: 2304
+        width: 942
+        height: 768
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48b3b891345c4caf0800000000000000
+      internalID: -376959576810243196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pal Sprite Sheet Idle_203
+      rect:
+        serializedVersion: 2
+        x: 10362
+        y: 2304
+        width: 942
+        height: 768
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b7a1b4abb5a0bdd0800000000000000
+      internalID: -2472293970085828687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pal Sprite Sheet Idle_204
+      rect:
+        serializedVersion: 2
+        x: 11304
+        y: 2304
+        width: 942
+        height: 768
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c324e2c613020270800000000000000
+      internalID: 8215132066571101125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pal Sprite Sheet Idle_205
+      rect:
+        serializedVersion: 2
+        x: 12246
+        y: 2304
+        width: 942
+        height: 768
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a50ec79aceed4270800000000000000
+      internalID: 8236501847428171172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pal Sprite Sheet Idle_206
+      rect:
+        serializedVersion: 2
+        x: 13188
+        y: 2304
+        width: 942
+        height: 768
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1a1c2425efbbfb10800000000000000
+      internalID: 2016416249053714972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pal Sprite Sheet Idle_207
+      rect:
+        serializedVersion: 2
+        x: 14130
+        y: 2304
+        width: 942
+        height: 768
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ceb59c2c169be1b0800000000000000
+      internalID: -5626238261718040896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pal Sprite Sheet Idle_208
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1536
+        width: 942
+        height: 768
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7f3fa7d65c49eb10800000000000000
+      internalID: 2011222644467122046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pal Sprite Sheet Idle_209
+      rect:
+        serializedVersion: 2
+        x: 942
+        y: 1536
+        width: 942
+        height: 768
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b0b74d427a213ce0800000000000000
+      internalID: -1427312936488554314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pal Sprite Sheet Idle_210
+      rect:
+        serializedVersion: 2
+        x: 1884
+        y: 1536
+        width: 942
+        height: 768
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d02035b9ec2ab1e0800000000000000
+      internalID: -2181381687228751655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pal Sprite Sheet Idle_211
+      rect:
+        serializedVersion: 2
+        x: 2826
+        y: 1536
+        width: 942
+        height: 768
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7119057af1280d870800000000000000
+      internalID: 8705601152169840919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pal Sprite Sheet Idle_212
+      rect:
+        serializedVersion: 2
+        x: 3768
+        y: 1536
+        width: 942
+        height: 768
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 926d41af6d925a7a0800000000000000
+      internalID: -6366636494922918359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pal Sprite Sheet Idle_213
+      rect:
+        serializedVersion: 2
+        x: 4710
+        y: 1536
+        width: 942
+        height: 768
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06af94196ce4f7200800000000000000
+      internalID: 179949124866144864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pal Sprite Sheet Idle_214
+      rect:
+        serializedVersion: 2
+        x: 5652
+        y: 1536
+        width: 942
+        height: 768
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96e76f4917d31d900800000000000000
+      internalID: 707414174513659497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pal Sprite Sheet Idle_215
+      rect:
+        serializedVersion: 2
+        x: 6594
+        y: 1536
+        width: 942
+        height: 768
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71439e3fb70aafa80800000000000000
+      internalID: -8432250898064264169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pal Sprite Sheet Idle_216
+      rect:
+        serializedVersion: 2
+        x: 7536
+        y: 1536
+        width: 942
+        height: 768
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 881de5cdf02094910800000000000000
+      internalID: 1821989791393042824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pal Sprite Sheet Idle_217
+      rect:
+        serializedVersion: 2
+        x: 8478
+        y: 1536
+        width: 942
+        height: 768
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51f00fdc524393710800000000000000
+      internalID: 1673426073518346005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pal Sprite Sheet Idle_218
+      rect:
+        serializedVersion: 2
+        x: 9420
+        y: 1536
+        width: 942
+        height: 768
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91b065c794b272010800000000000000
+      internalID: 1163946623317183257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pal Sprite Sheet Idle_219
+      rect:
+        serializedVersion: 2
+        x: 10362
+        y: 1536
+        width: 942
+        height: 768
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13f0d6cbd67a556a0800000000000000
+      internalID: -6461074000638570703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pal Sprite Sheet Idle_220
+      rect:
+        serializedVersion: 2
+        x: 11304
+        y: 1536
+        width: 942
+        height: 768
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c7495ccae9a125e0800000000000000
+      internalID: -1936079538876758076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pal Sprite Sheet Idle_221
+      rect:
+        serializedVersion: 2
+        x: 12246
+        y: 1536
+        width: 942
+        height: 768
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da685bf614f7ea1a0800000000000000
+      internalID: -6796354868631730515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pal Sprite Sheet Idle_222
+      rect:
+        serializedVersion: 2
+        x: 13188
+        y: 1536
+        width: 942
+        height: 768
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9fe34ca80c488a10800000000000000
+      internalID: 1911861641952358299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pal Sprite Sheet Idle_223
+      rect:
+        serializedVersion: 2
+        x: 14130
+        y: 1536
+        width: 942
+        height: 768
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50e3398e9e3649a10800000000000000
+      internalID: 1915265597819796997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pal Sprite Sheet Idle_224
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 768
+        width: 942
+        height: 768
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d008eedd7d129f4b0800000000000000
+      internalID: -5406252666656489459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pal Sprite Sheet Idle_225
+      rect:
+        serializedVersion: 2
+        x: 942
+        y: 768
+        width: 942
+        height: 768
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08819f3593045e0c0800000000000000
+      internalID: -4547157633794500480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pal Sprite Sheet Idle_226
+      rect:
+        serializedVersion: 2
+        x: 1884
+        y: 768
+        width: 942
+        height: 768
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b7110992a6b09620800000000000000
+      internalID: 2778921779555538872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pal Sprite Sheet Idle_227
+      rect:
+        serializedVersion: 2
+        x: 2826
+        y: 768
+        width: 942
+        height: 768
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b2fc0b0f05c33510800000000000000
+      internalID: 1527781367009309361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pal Sprite Sheet Idle_228
+      rect:
+        serializedVersion: 2
+        x: 3768
+        y: 768
+        width: 942
+        height: 768
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f5f2391573652420800000000000000
+      internalID: 2604597314088793587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pal Sprite Sheet Idle_229
+      rect:
+        serializedVersion: 2
+        x: 4710
+        y: 768
+        width: 942
+        height: 768
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d7fed50b465dd0d0800000000000000
+      internalID: -3396463663746451497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pal Sprite Sheet Idle_230
+      rect:
+        serializedVersion: 2
+        x: 5652
+        y: 768
+        width: 942
+        height: 768
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5616ad488051b9400800000000000000
+      internalID: 331882123874689381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pal Sprite Sheet Idle_231
+      rect:
+        serializedVersion: 2
+        x: 6594
+        y: 768
+        width: 942
+        height: 768
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b775f6557616d940800000000000000
+      internalID: 5320464703010731956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pal Sprite Sheet Idle_232
+      rect:
+        serializedVersion: 2
+        x: 7536
+        y: 768
+        width: 942
+        height: 768
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67f72172ea34b1000800000000000000
+      internalID: 7674239630081910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pal Sprite Sheet Idle_233
+      rect:
+        serializedVersion: 2
+        x: 8478
+        y: 768
+        width: 942
+        height: 768
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8eafdd6b1fc8f3890800000000000000
+      internalID: -7476101886628726040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pal Sprite Sheet Idle_234
+      rect:
+        serializedVersion: 2
+        x: 9420
+        y: 768
+        width: 942
+        height: 768
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dca3f884a09c9ef50800000000000000
+      internalID: 6911276149180938957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pal Sprite Sheet Idle_235
+      rect:
+        serializedVersion: 2
+        x: 10362
+        y: 768
+        width: 942
+        height: 768
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f42a3f2f14f5540e0800000000000000
+      internalID: -2286316498967092657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pal Sprite Sheet Idle_236
+      rect:
+        serializedVersion: 2
+        x: 11304
+        y: 768
+        width: 942
+        height: 768
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60c4a92121dff4af0800000000000000
+      internalID: -409830787004085242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pal Sprite Sheet Idle_237
+      rect:
+        serializedVersion: 2
+        x: 12246
+        y: 768
+        width: 942
+        height: 768
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f229e71f58a7ed6f0800000000000000
+      internalID: -657953779848670673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pal Sprite Sheet Idle_238
+      rect:
+        serializedVersion: 2
+        x: 13188
+        y: 768
+        width: 942
+        height: 768
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e70068142f922390800000000000000
+      internalID: -7844532623549397019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pal Sprite Sheet Idle_239
+      rect:
+        serializedVersion: 2
+        x: 14130
+        y: 768
+        width: 942
+        height: 768
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ee15dfa14d75a430800000000000000
+      internalID: 3793575982205837031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pal Sprite Sheet Idle_240
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 942
+        height: 768
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1b1b22c99f4275a0800000000000000
+      internalID: -6525065388300231910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pal Sprite Sheet Idle_241
+      rect:
+        serializedVersion: 2
+        x: 942
+        y: 0
+        width: 942
+        height: 768
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a51709e64cee5ad0800000000000000
+      internalID: -2711470136329038429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pal Sprite Sheet Idle_242
+      rect:
+        serializedVersion: 2
+        x: 1884
+        y: 0
+        width: 942
+        height: 768
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3dc79da42baf62c30800000000000000
+      internalID: 4334427335057571027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pal Sprite Sheet Idle_243
+      rect:
+        serializedVersion: 2
+        x: 2826
+        y: 0
+        width: 942
+        height: 768
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de88900401dae1ee0800000000000000
+      internalID: -1288402158075934483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pal Sprite Sheet Idle_244
+      rect:
+        serializedVersion: 2
+        x: 3768
+        y: 0
+        width: 942
+        height: 768
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f379af62faaff2780800000000000000
+      internalID: -8705463924503701697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pal Sprite Sheet Idle_245
+      rect:
+        serializedVersion: 2
+        x: 4710
+        y: 0
+        width: 942
+        height: 768
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b3b05ed365ab7190800000000000000
+      internalID: -7963589667724414025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pal Sprite Sheet Idle_246
+      rect:
+        serializedVersion: 2
+        x: 5652
+        y: 0
+        width: 942
+        height: 768
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c96f802923034860800000000000000
+      internalID: 7512852078558931392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pal Sprite Sheet Idle_247
+      rect:
+        serializedVersion: 2
+        x: 6594
+        y: 0
+        width: 942
+        height: 768
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4e404f9aa1b80e10800000000000000
+      internalID: 2164174967325871690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pal Sprite Sheet Idle_248
+      rect:
+        serializedVersion: 2
+        x: 7536
+        y: 0
+        width: 942
+        height: 768
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 468ab9d8d0eb98470800000000000000
+      internalID: 8397451945628641380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pal Sprite Sheet Idle_249
+      rect:
+        serializedVersion: 2
+        x: 8478
+        y: 0
+        width: 942
+        height: 768
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 747ade9afd7ec14f0800000000000000
+      internalID: -856554881292589241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pal Sprite Sheet Idle_250
+      rect:
+        serializedVersion: 2
+        x: 9420
+        y: 0
+        width: 942
+        height: 768
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3770212308bc0aa80800000000000000
+      internalID: -8457536348745496717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pal Sprite Sheet Idle_251
+      rect:
+        serializedVersion: 2
+        x: 10362
+        y: 0
+        width: 942
+        height: 768
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce61bd8047671fd40800000000000000
+      internalID: 5616400451044579052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pal Sprite Sheet Idle_252
+      rect:
+        serializedVersion: 2
+        x: 11304
+        y: 0
+        width: 942
+        height: 768
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92f0c28a7b88fdfe0800000000000000
+      internalID: -1162059856456446167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pal Sprite Sheet Idle_253
+      rect:
+        serializedVersion: 2
+        x: 12246
+        y: 0
+        width: 942
+        height: 768
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04fca9d05cef59680800000000000000
+      internalID: -8748806578807058624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pal Sprite Sheet Idle_254
+      rect:
+        serializedVersion: 2
+        x: 13188
+        y: 0
+        width: 942
+        height: 768
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b080d88af82d3180800000000000000
+      internalID: -9134099412735197002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pal Sprite Sheet Idle_255
+      rect:
+        serializedVersion: 2
+        x: 14130
+        y: 0
+        width: 942
+        height: 768
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9913635ed84107310800000000000000
+      internalID: 1400642083780702617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
